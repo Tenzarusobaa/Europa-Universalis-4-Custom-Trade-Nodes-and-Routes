@@ -10,7 +10,7 @@ A Europa Universalis IV mod that adds custom trade nodes and trade routes to enh
 - **[Portugal]** Lisboa
   - New trade node representing Portugal's capital and trade hub
 - **[England/UK]** London (End Node)
-  - New end node representing England's/United Kingdom's dominant trade position
+  - New end node representing England/United Kingdom's dominant trade position
 
 ### Added Trade Routes
 - **Cape of Good Hope → English Channel**
@@ -22,6 +22,7 @@ A Europa Universalis IV mod that adds custom trade nodes and trade routes to enh
 - **Malacca → English Channel**
   - Direct route for Netherlands/Low Countries to give AI chance from the East
   - Compatible with historical colonies mod that automatically cedes Dutch East Indies territories to Netherlands/Holland
+  - Helps AI move trade upstream to home node without needing to dominate Cape of Good Hope/Ivory Coast
   
 ## Purpose
 This mod aims to:
